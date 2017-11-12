@@ -9,10 +9,10 @@ except ImportError:
     import simplejson as json
 import tweepy
 
-consumer_key = "9nmGaGF0vdoJA3XlQAmd5i4St"
-consumer_secret = "s1WbhzBOOCSTZryHa98nWFQXgnjm11d0NtqZc8qNsK9hhS3ctc"
-access_token = "830312796831113216-RdF5nUM6pKPziSEZDGM5U7QT5CgYiRn"
-access_token_secret = "33Gjnw7c7ETO4NPQCMbijivrB9hJh1xSNF8RVMW6eJjtR"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 MAXTWEETS  = 10000000
 curTweets = 0
 stopStream = False
